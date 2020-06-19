@@ -1,0 +1,14 @@
+{
+    "name": "mody/tugasmod",
+    "description": "sistem informasi music player",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "maudy",
+            "email": "maudypangestu@gmail.com"
+        }
+    ]
+}
